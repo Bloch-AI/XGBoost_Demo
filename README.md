@@ -1,6 +1,7 @@
 # XGBoost Financial Prediction Demo
 
 Supporting notebook for the Medium Article XGBoost Explained: A Beginner's Guide
+(https://blochai.medium.com/xgboost-explained-a-beginners-guide-095464ad418f)
 
 This script demonstrates the application of the XGBoost classifier for a financial prediction task, specifically predicting whether a stock's closing price will be higher or lower than its opening price based on simulated historical data. The process encompasses data generation, preprocessing, model training with hyperparameter tuning, evaluation, and interpretation, providing a comprehensive overview of a machine learning pipeline.
 
